@@ -1,5 +1,5 @@
 Hi, here is my implementation of popular snake game.
-I added extra superfood which doesn't make bigger snake and gives you 5 points to your score.
+I added extra superfood which doesn't make snake bigger and gives You 5 points.
 You get chance to eat superfood every 5 times you eat normal food. Superfood is available only 
 for 50 moves of Your snake after it appears.
 
