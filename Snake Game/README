@@ -1,0 +1,8 @@
+Hi, here is my implementation of popular snake game.
+I added extra superfood which doesn't make bigger snake and gives you 5 points to your score.
+You get chance to eat superfood every 5 times you eat normal food. Superfood is available only 
+for 50 moves of Your snake after it appears.
+
+In the future:
+- I will add extra window after gameover that shows Your score and allows You to restart game 
+- and another window with scoreboard read from file (all Your scores will be saved in file)
